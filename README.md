@@ -53,4 +53,4 @@ Distributed under the BSD-3 Clause License. See `LICENSE` for more information.
 
 ## ⚠️ Disclaimer
 
-*Breadstrap is a third-party utility. While FFlag editing is generally considered safe for performance tuning, use it at your own risk. This project is not affiliated with, maintained, authorized, endorsed, or sponsored by Roblox Corp.*
+*Breadstrap is a third-party utility. While FFlag editing is generally considered safe for performance tuning, use it at your own risk. This project is not affiliated with, maintained, authorized, endorsed, or sponsored by Roblox Corp. Also, its compiled with Nuitka and includes PyMem for the injection process to inject FFlags to roblox, The warnings may seem bad but i guarantee this is safe*
